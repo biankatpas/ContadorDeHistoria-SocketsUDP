@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package br.univali.quizsocketsudp;
+package br.univali.contadordehistoriasocketsudp;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
